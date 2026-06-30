@@ -1,0 +1,1 @@
+Seenzo — installateurs & auto-update (genere automatiquement, pas de code source).
